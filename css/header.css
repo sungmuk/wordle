@@ -12,6 +12,7 @@ header {
 
 .info-bar__wordle {
   padding-bottom: 10px;
+  padding-left: 60px;
   font-size: 35px;
   font-weight: bold;
 }
